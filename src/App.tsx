@@ -1,11 +1,9 @@
-import * as React from "react"
-
 
 function App() {
 
   return (
     <>
-      <h2>Hello from first project</h2>
+      <h2 className="bg-red-500">Hello from first project</h2>
     </>
   )
 }
